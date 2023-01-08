@@ -3,7 +3,6 @@
 ![GitHub stars](https://img.shields.io/github/stars/faisalramdan17/car_rental_lite?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/faisalramdan17/car_rental_lite?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/faisalramdan17/car_rental_lite?style=social)
-
 [![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![platform](https://img.shields.io/badge/platform-Flutter-blue.svg)](https://flutter.dev/)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/faisalramdan17)
@@ -49,7 +48,7 @@ PLAYLISTS:
 ### Flutter Tutorial #1: Creating Beautiful Text Layouts with Text and RichText
 
 <p>
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/1.png">
+    <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/oHvxqY7vkQY">
     <img src="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/1.png" style="max-width:100%;"></a>
 </p>
 
@@ -61,7 +60,7 @@ In this Flutter tutorial, we will be exploring the Text and RichText widgets. Th
 ### Flutter Tutorial #2:  The Essential Container Widget - Basic Layout Element
 
 <p>
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/2.png">
+    <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/d2otFzR6EsI">
     <img src="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/2.png" style="max-width:100%;"></a>
 </p>
 
@@ -74,7 +73,7 @@ In this Flutter tutorial, we will be diving into the world of the Container widg
 ### Flutter Tutorial #3 : Creating a Basic Layout with the Flutter Scaffold Widget
 
 <p>
-    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/3.png">
+    <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/i3yVscqLars">
     <img src="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/3.png" style="max-width:100%;"></a>
 </p>
 
