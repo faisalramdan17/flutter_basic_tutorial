@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# About Us
+
+## About Us
 
 Flutter Course for FREE → https://bit.ly/flutter-free-course
 
@@ -29,21 +30,22 @@ https://lnkd.in/gKMa4ujC
 https://codingyourlife.gumroad.com/l/flutter-aqua-workout-app
 
 PLAYLISTS:
-FLUTTER BASIC TUTORIAL → https://youtube.com/playlist?list=PLfoSLwBzaK27KKI6O8CeXJGIWfu6YNjQ6
-CAR RENTAL APP - TUTORIAL → https://bit.ly/flutter-car-rental-app
-PREVIEW VIDEO  → https://youtube.com/playlist?list=PLfoSLwBzaK26PmYZzbK2-2cFKvAFLz9aG
-FLUTTER UI (CHALLENGE)  → https://youtube.com/playlist?list=PLfoSLwBzaK25JQd_39CYJ18zcNBUBcF-0
+- FLUTTER BASIC TUTORIAL → https://youtube.com/playlist?list=PLfoSLwBzaK27KKI6O8CeXJGIWfu6YNjQ6
+- CAR RENTAL APP - TUTORIAL → https://bit.ly/flutter-car-rental-app
+- PREVIEW VIDEO  → https://youtube.com/playlist?list=PLfoSLwBzaK26PmYZzbK2-2cFKvAFLz9aG
+- FLUTTER UI (CHALLENGE)  → https://youtube.com/playlist?list=PLfoSLwBzaK25JQd_39CYJ18zcNBUBcF-0
 
-# Flutter Basic Tutorial Videos
 
-## Flutter Tutorial #1: Creating Beautiful Text Layouts with Text and RichText
+## Flutter Basic Tutorial Videos
+
+### Flutter Tutorial #1: Creating Beautiful Text Layouts with Text and RichText
 
 Youtube Video : [KLIK HERE FOR WATCH](https://youtu.be/oHvxqY7vkQY)
 
 In this Flutter tutorial, we will be exploring the Text and RichText widgets. These powerful tools allow you to create beautiful and dynamic text layouts in your Flutter applications. We will be covering how to style text, create rich text with different styles and fonts, and even how to create text that spans multiple lines. By the end of this tutorial, you will have a solid understanding of how to use the Text and RichText widgets to enhance the user experience of your Flutter apps. So let's get started!
 
 
-## Flutter Tutorial #2:  The Essential Container Widget - Basic Layout Element
+### Flutter Tutorial #2:  The Essential Container Widget - Basic Layout Element
 
 Youtube Video : [KLIK HERE FOR WATCH](https://youtu.be/d2otFzR6EsI)
 
@@ -51,13 +53,13 @@ Are you looking to improve the layout and visual appeal of your Flutter app? Loo
 
 In this Flutter tutorial, we will be diving into the world of the Container widget. The Container widget is a fundamental building block in Flutter, and it allows you to create visually appealing layouts with ease. And we'll learn how to use the Flutter Container widget to create a visually pleasing layout for our app. We'll go over optional parameters such as padding, margin, and decoration to customize the appearance and behavior of the container.
 
-## Flutter Tutorial #3 : Creating a Basic Layout with the Flutter Scaffold Widget
+### Flutter Tutorial #3 : Creating a Basic Layout with the Flutter Scaffold Widget
 
 Youtube Video : [KLIK HERE FOR WATCH](https://youtu.be/i3yVscqLars)
 
 In this tutorial, we'll learn all about the Flutter Scaffold widget, a fundamental layout element in Flutter that provides a structure for the visual elements of an app. We'll cover how to use the Scaffold widget to create a basic layout, including a top app bar, a bottom navigation bar, and a body content area. We'll also explore some of the optional parameters that the Scaffold widget provides, such as the ability to add a drawer, a floating action button, and a snack bar. By the end of this tutorial, you'll have a solid understanding of how to use the Flutter Scaffold widget to build beautiful and functional apps.
 
-# Contact Us
+## Contact Us
 
 CONTACT ME :
 - Email → faisalramdan.id@gmail.com
