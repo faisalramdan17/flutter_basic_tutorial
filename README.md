@@ -1,4 +1,12 @@
-# flutter_basic_tutorial
+# Flutter Basic Widget Tutorial
+
+![GitHub stars](https://img.shields.io/github/stars/faisalramdan17/car_rental_lite?style=social)
+![GitHub forks](https://img.shields.io/github/forks/faisalramdan17/car_rental_lite?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/faisalramdan17/car_rental_lite?style=social)
+
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![platform](https://img.shields.io/badge/platform-Flutter-blue.svg)](https://flutter.dev/)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/faisalramdan17)
 
 A Flutter basic widget tutorial project.
 
@@ -40,12 +48,22 @@ PLAYLISTS:
 
 ### Flutter Tutorial #1: Creating Beautiful Text Layouts with Text and RichText
 
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/1.png">
+    <img src="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/1.png" style="max-width:100%;"></a>
+</p>
+
 Youtube Video : [KLIK HERE FOR WATCH](https://youtu.be/oHvxqY7vkQY)
 
 In this Flutter tutorial, we will be exploring the Text and RichText widgets. These powerful tools allow you to create beautiful and dynamic text layouts in your Flutter applications. We will be covering how to style text, create rich text with different styles and fonts, and even how to create text that spans multiple lines. By the end of this tutorial, you will have a solid understanding of how to use the Text and RichText widgets to enhance the user experience of your Flutter apps. So let's get started!
 
 
 ### Flutter Tutorial #2:  The Essential Container Widget - Basic Layout Element
+
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/2.png">
+    <img src="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/2.png" style="max-width:100%;"></a>
+</p>
 
 Youtube Video : [KLIK HERE FOR WATCH](https://youtu.be/d2otFzR6EsI)
 
@@ -54,6 +72,12 @@ Are you looking to improve the layout and visual appeal of your Flutter app? Loo
 In this Flutter tutorial, we will be diving into the world of the Container widget. The Container widget is a fundamental building block in Flutter, and it allows you to create visually appealing layouts with ease. And we'll learn how to use the Flutter Container widget to create a visually pleasing layout for our app. We'll go over optional parameters such as padding, margin, and decoration to customize the appearance and behavior of the container.
 
 ### Flutter Tutorial #3 : Creating a Basic Layout with the Flutter Scaffold Widget
+
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/3.png">
+    <img src="https://raw.githubusercontent.com/faisalramdan17/flutter_basic_tutorial/main/assets/3.png" style="max-width:100%;"></a>
+</p>
+
 
 Youtube Video : [KLIK HERE FOR WATCH](https://youtu.be/i3yVscqLars)
 
