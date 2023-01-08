@@ -1,0 +1,13 @@
+{
+    "[dart]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll": true,
+            "source.organizeImports": true,
+        },
+    },
+    "dart.closingLabels": false,
+    "dart.showMainCodeLens": false,
+    "dart.flutterOutline": false,
+
+    "editor.fontSize": 20,
+}
