@@ -5,11 +5,9 @@ class TextWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text('Hello World'),
-        ),
+    return const Scaffold(
+      body: Center(
+        child: Text('Hello World'),
       ),
     );
   }
@@ -21,18 +19,16 @@ class StyledTextWidget extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: Text(
-            'Hello World',
-            style: TextStyle(
-              fontSize: 32,
-              color: Colors.blue,
-              fontWeight: FontWeight.bold,
-            ),
-            textAlign: TextAlign.center,
-            maxLines: 2,
+      home: Center(
+        child: Text(
+          'Hello World',
+          style: TextStyle(
+            fontSize: 32,
+            color: Colors.blue,
+            fontWeight: FontWeight.bold,
           ),
+          textAlign: TextAlign.center,
+          maxLines: 2,
         ),
       ),
     );
@@ -44,25 +40,23 @@ class RichTextWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(
-        body: Center(
-          child: RichText(
-            text: const TextSpan(
-              style: TextStyle(
-                fontSize: 32,
-                color: Colors.blue,
-              ),
-              children: [
-                TextSpan(
-                  text: 'Bold text: ',
-                  style: TextStyle(
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-                TextSpan(text: 'normal text'),
-              ],
+    return Scaffold(
+      body: Center(
+        child: RichText(
+          text: const TextSpan(
+            style: TextStyle(
+              fontSize: 32,
+              color: Colors.blue,
             ),
+            children: [
+              TextSpan(
+                text: 'Bold text: ',
+                style: TextStyle(
+                  fontWeight: FontWeight.bold,
+                ),
+              ),
+              TextSpan(text: 'normal text'),
+            ],
           ),
         ),
       ),
